@@ -11,4 +11,4 @@
 
 **备注**
 
-在 PHP 中，有一款与 SLIM 同名的框架叫做 [Slim Framework](http://www.slimframework.com/)，语法方式很类似 Node.js，有兴趣的朋友，可以去了解一下。
+在 PHP 中，有一款与 SLIM 同名的框架叫做 [Slim Framework](http://www.slimframework.com/)，语法方式很类似 Node.js，用来编写 API 会很方便，有兴趣的朋友，可以去了解一下。
